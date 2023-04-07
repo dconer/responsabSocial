@@ -253,6 +253,10 @@
   box-shadow: 0 3.2rem 6.4rem rgba(2, 119, 179, 0.06);
 }
 
+.meal-content{
+  padding: 1rem 3.2rem 3.2rem 3.2rem;
+}
+
 .meal-tags {
   margin-bottom: 1.2rem;
   display: flex;
