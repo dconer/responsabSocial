@@ -1,58 +1,35 @@
-# foodFit
-The main objective is to inform people about this chair's company. This website portfolio is simple and consists of only one page so I use the necessary CSS to align with the objective. The main takeaway is the design principles I applied to make it stand out and intuitive to the user.
-
-# See project
-https://footfit.netlify.app/
+# FootFit
+FootFit is a simple web application that helps users monitor their health by calculating their BMI and ideal weight based on their height, weight, and gender. It is built using HTML, CSS, and JavaScript, and is responsive and easy to use.
 
 ## Table of Contents
-* Installation
-* Usage
-* How I created it
-* Technologies Used
-* Contributing
-* License
++ Installation
++ Features
++ How it was Created
++ Technologies Used
++ License
 
 ## Installation
-Clone the repository: git clone git@github.com:dconer/footFit.git
-Open the index.html file in your web browser.
+To install FootFit, follow these steps:
 
-## Usage
+Clone the repository: git clone https://github.com/dconer/footFit.git
+Open the index.html file in your browser.
 
-This small website is a static website so there is not much to explain in terms of usage.
+## Features
++ Responsive Design: The app is responsive and can be used on any device of any size. It also has 4 ingredients to make it as responsible as possible: fluid layouts achieved by using css grids and flexbox, responsive units (mostly rem), flexible images (using %) and media queries.
++ Aesthetics design: Nearly every single aspect of the layout, components has been throughly designed from scratch following the guidelines for a Calm/peaceful  and Startup/Upbeat personality. The design Principles on colors, whitespace, hierarchy, typography, images, shadows, border radius and user experience are ruled by it. 
++ To improve the performance scored based on lighthouse analysis, the images were compressed and scaled down to 2 times its original rendered size in the browser to account for high resolution screens. 
++ Animated features: Look at testimonials gallery.
++ Accesibility features has been incorporated in images, links and buttons.
 
-
-## How I created
-
-To design this website I have leveraged the following design ingredients:
-* Typography: font-family: "Inter", sans-serif;
-* Colors: 
-  + Main color: Amber(#b45309), and their tints and shades.
-  + Gray color: #343a40 and different variations of brightness (For text)
-  + I also used [coloors](https://coolors.co/contrast-checker/112a46-acc8e5) website for checking out the contrast between colors keeping in mind that the contrast ratio needs to be at least 4.5:1 for normal text and 3:1 for large text (18px+). If that was not the case, I used different tints and shades of colors.
-  + I tried to use colors strategically in images and illustrations by choosing those that are near the amber color.
-* Images: 
-  + Storytelling photos that support the website's message. 
-  + I tried to use original photos but I did not have a good camera so I choose Unsplash images avoiding generic images.
-*  Icons
-   + To provide visual assistance to text
-* Shadows
-  + I used it to provide a more playful and fun personality to the website (for cards, and buttons)
-  + I tried to use it in small doses. 
-* Border radius
-  + To increase the playfulness and fun of the design. 
-* White space
-  + I tried a hard rule: using multiples of 16px for all spacing
-  + I use 128px whitespace between sections,
-  + And used the proximity principle to decide the whitespace across elements and groups
-* Visual hierarchy
+## How it was Created
+FootFit was created using HTML, CSS, and JavaScript. The HTML file contains the basic structure of the app, including the input fields and buttons. The CSS file styles the app, including the layout and colors. The JavaScript file handles the calculations and displays the results.
 
 ## Technologies Used
-* HTML
-* CSS
+FootFit was built using the following technologies:
 
-
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request or use this design for free to add to your project and add some js functionality as a project to strengthen your dev skills.
++ HTML
++ CSS
++ JavaScript
 
 ## License
-This project is licensed under the MIT License.
+FootFit is licensed under the MIT license. Copyright (c) 2023 Derick Blacido Contreras
