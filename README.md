@@ -1,6 +1,9 @@
 # FootFit
 FootFit is a simple web application that helps users monitor their health by calculating their BMI and ideal weight based on their height, weight, and gender. It is built using HTML, CSS, and JavaScript, and is responsive and easy to use.
 
+## See website 
+https://footfit.netlify.app/
+
 ## Table of Contents
 + Installation
 + Features
