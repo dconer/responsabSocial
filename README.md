@@ -35,4 +35,4 @@ FootFit was built using the following technologies:
 + JavaScript
 
 ## License
-FootFit is licensed under the MIT license. Copyright (c) 2023 Derick Blacido Contreras
+FootFit is licensed under the MIT license. Copyright (c) 2023 Derick Blacido Contreras. [See License](/LICENSE.md)
