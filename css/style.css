@@ -638,7 +638,8 @@
 }
 
 .spur-link:link,
-.spur-link:active {
+.spur-link:visited {
   text-decoration: none;
-  color: #014264;
+  color: #0790da;
 }
+  
