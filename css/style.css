@@ -253,7 +253,7 @@
   box-shadow: 0 3.2rem 6.4rem rgba(2, 119, 179, 0.06);
 }
 
-.meal-content{
+.meal-content {
   padding: 1rem 3.2rem 3.2rem 3.2rem;
 }
 
@@ -401,7 +401,7 @@
 }
 
 .pricing-plan--complete::after {
-  content: "Best value";
+  content: "Más comprado";
   position: absolute;
   top: 6%;
   right: -18%;
