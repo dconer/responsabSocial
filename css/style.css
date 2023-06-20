@@ -636,3 +636,9 @@
 .footer-link:active {
   color: #555;
 }
+
+.spur-link:link,
+.spur-link:active {
+  text-decoration: none;
+  color: #014264;
+}
